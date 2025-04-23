@@ -38,5 +38,3 @@ Change the footer:
 3. Change the background-color to pink
 
 
-
-
